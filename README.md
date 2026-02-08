@@ -14,7 +14,7 @@ The system helps automate car rental operations and reduces manual work.
 
 ## 🛠️ Technologies Used
 - Java
-- MySQL
+- SQL
 - JDBC
 - HTML, CSS (if applicable)
 
